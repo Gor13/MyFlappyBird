@@ -39,7 +39,7 @@ public class FlappyBird extends ApplicationAdapter {
 	Rectangle[] topTubeRectangle;
 	Rectangle[] bottomTubeRectangle;
 //	ShapeRenderer shapeRenderer;
-
+//2
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
